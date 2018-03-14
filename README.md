@@ -84,10 +84,11 @@ You can replay a PCAP file in offline mode:
 3. Install Windows 7  x64 (64 bit) (!!!NOT Windows 10!!!) on the VM (recommended: 2gb ram, 16gb storage, 2 processors)
 Recommended: https://softlay.net/operating-system/windows-7-all-in-one-iso-free-download-32-64-bit.html
 Use Windows 7 ultimate when installing
-4. Install https://www.winpcap.org/install/ 
-5. Go to settings of your VM, go to network, set attached to: 'Bridged adapter' and set promiscuous mode: 'Allow all'
-6. Go to settings of your VM, go to video, set video memory to max and enable both acceleration checkboxes.
-9. Run radar on VM.
+4. Install https://www.winpcap.org/install/ and https://www.microsoft.com/en-us/download/details.aspx?id=48145 on the VM
+5. Install .Net framework 4.5: https://www.microsoft.com/en-us/download/details.aspx?id=30653
+6. Go to settings of your VM, go to network, set attached to: 'Bridged adapter' and set promiscuous mode: 'Allow all'
+7. Go to settings of your VM, go to video, set video memory to max and enable both acceleration checkboxes.
+8. Run radar on VM.
 
 #### No need to set up VPN using this method!
 

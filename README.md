@@ -2,16 +2,12 @@
 
 
 ### Updated for Newest Patch
-
-#Beware this is a ROUGH update, it is RIDDLED with bugs, but it semi works.
-
-join us on [Discord for updates](https://discord.gg/pAuVxYB)
-
+## Beware this is a ROUGH update, it is RIDDLED with bugs, but it semi works.
+### Join us on [Discord for updates](https://discord.gg/pAuVxYB)
 
 'Reverted' Back to an older Commit Due to CharMoveComp No longer being used.
 
 SDK Dumped by (legitnutty33)
-
 #### By engaging with this repository you explicitly agree with the terms of the Unlicense.
 
 
@@ -23,14 +19,13 @@ You can't filter level 3 gear (always enabled)
 
 #### Item Filter:
 * HOME -> Show / Hide Compass
-NUMPAD_0 -> Filter Throwables
-NUMPAD_1 -> Filter Attachments
-NUMPAD_2 -> Filter Scopes
-NUMPAD_3 -> Filter Ammo
-NUMPAD_4 -> Filter Weapons
-NUMPAD_5 -> Filter Level 2 Gear          
-NUMPAD_6 -> Filter Meds
-
+* NUMPAD_0 -> Filter Throwables
+* NUMPAD_1 -> Filter Attachments
+* NUMPAD_2 -> Filter Scopes
+* NUMPAD_3 -> Filter Ammo
+* NUMPAD_4 -> Filter Weapons
+* NUMPAD_5 -> Filter Level 2 Gear          
+* NUMPAD_6 -> Filter Meds
 
 #### Item Offset Tweaker Keybinds
 * F5 -> Item Offset X++

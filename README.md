@@ -3,7 +3,7 @@
 
 ### Updated for Newest Patch
 ## Beware this is a ROUGH update, it is RIDDLED with bugs, but it semi works.
-### Join us on [Discord for updates](https://discord.gg/pAuVxYB)
+### Join us on [Discord for updates](https://discord.gg/mguV7Ba)
 
 'Reverted' Back to an older Commit Due to CharMoveComp No longer being used.
 
